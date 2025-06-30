@@ -1,0 +1,8 @@
+{
+  "name": "line-dialogflow-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "raw-body": "^2.5.1"
+  }
+}
